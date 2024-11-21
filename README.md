@@ -1,7 +1,7 @@
 # S2KNI-SLAM
 The method we propose, S2KNI-SLAM, can achieve centimeter-level localization and high-fidelity reconstruction of large-scale scenes in just 3 seconds. S2KNI-SLAM outperforms existing methods in both localization accuracy and reconstruction quality.
 
-The system also represents the scene using a multi-resolution hash grid, incorporates a dynamic hierarchical hashing strategy to reduce hash collisions, and improves robustness and adaptability through a Kalman filtering-based error compensation mechanism. Experimental results demonstrate that our method achieves high-fidelity reconstruction within 3 seconds and enables long-distance, centimeter-level localization in large-scale outdoor scenes and similar environments, outperforming existing state-of-the-art methods and offering a novel solution to SLAM challenges. We visualized the reconstruction process of the S2KNI-SLAM, as shown below:
+S2KNI-SLAM represents the scene using a multi-resolution hash grid, incorporates a dynamic hierarchical hashing strategy to reduce hash collisions, and improves robustness and adaptability through a Kalman filtering-based error compensation mechanism. Experimental results demonstrate that our method achieves high-fidelity reconstruction within 3 seconds and enables long-distance, centimeter-level localization in large-scale outdoor scenes and similar environments, outperforming existing state-of-the-art methods and offering a novel solution to SLAM challenges. We visualized the reconstruction process of the S2KNI-SLAM, as shown below:
 
 https://github.com/user-attachments/assets/6ad5ae7d-ca8b-4512-9524-d2fe831dc0c5
 
